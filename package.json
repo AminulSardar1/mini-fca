@@ -1,0 +1,10 @@
+{
+  "name": "mini-fca",
+  "version": "0.1.0",
+  "description": "Minimal unofficial Facebook Messenger chat API for Node.js (experimental, untested)",
+  "main": "index.js",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "mqtt": "^4.3.8"
+  }
+}
